@@ -1,1 +1,1 @@
-Team Lead: Maliseni Chavula
+Team Lead: Chavula Maliseni
