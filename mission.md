@@ -1,2 +1,2 @@
-Project mission: Learn collaborative Git workflows with other developer D
+project mission: the main objective is to collaborate
 
