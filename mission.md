@@ -1,2 +1,2 @@
-project mission: the main objective is to collaborate
+project mission: the main objective is to collaborate .
 
