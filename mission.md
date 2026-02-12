@@ -1,2 +1,2 @@
-project mission: the main objective is to collaborate .
+project mission: this platform enables developers to collaborate.
 
