@@ -1,1 +1,1 @@
-Team Lead: Catherine Taonga Chisi
+Team Lead: Taonga Catherine Chisi
